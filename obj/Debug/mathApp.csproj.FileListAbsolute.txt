@@ -1,0 +1,13 @@
+C:\Program Files\C#\Desktop\mathApp\obj\Debug\mathApp.csprojAssemblyReference.cache
+C:\Program Files\C#\Desktop\mathApp\obj\Debug\mathApp.Properties.Resources.resources
+C:\Program Files\C#\Desktop\mathApp\obj\Debug\mathApp.csproj.GenerateResource.cache
+C:\Program Files\C#\Desktop\mathApp\obj\Debug\mathApp.csproj.CoreCompileInputs.cache
+C:\Program Files\C#\Desktop\mathApp\bin\Debug\mathApp.exe.config
+C:\Program Files\C#\Desktop\mathApp\bin\Debug\mathApp.exe
+C:\Program Files\C#\Desktop\mathApp\bin\Debug\mathApp.pdb
+C:\Program Files\C#\Desktop\mathApp\obj\Debug\mathApp.exe
+C:\Program Files\C#\Desktop\mathApp\obj\Debug\mathApp.pdb
+C:\Program Files\C#\Desktop\mathApp\obj\Debug\mathApp.forms.MainForm.resources
+C:\Program Files\C#\Desktop\mathApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Program Files\C#\Desktop\mathApp\obj\Debug\mathApp.csproj.CopyComplete
+C:\Program Files\C#\Desktop\mathApp\obj\Debug\mathApp.forms.Login.resources
